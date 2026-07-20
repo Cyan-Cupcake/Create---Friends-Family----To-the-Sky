@@ -1,0 +1,5 @@
+/daycounter date month set 7
+/daycounter date day set 10
+/daycounter date year set 2026
+/daycounter sync
+/seed

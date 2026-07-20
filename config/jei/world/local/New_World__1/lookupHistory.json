@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"sophisticatedbackpacks:backpack","components":{"sophisticatedcore:main_color":-425955,"sophisticatedcore:accent_color":-425955}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"woodworks:sawmill"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:gearbox"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

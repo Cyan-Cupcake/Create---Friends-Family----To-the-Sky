@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:lantern"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"minecraft:fire_resistance"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"minecraft:mundane"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:honey_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:suspicious_stew","components":{"minecraft:suspicious_stew_effects":[{"id":"minecraft:water_breathing"}]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"minecraft:night_vision"}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

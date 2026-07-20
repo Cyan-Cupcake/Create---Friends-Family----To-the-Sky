@@ -1,0 +1,19 @@
+[throwable_rope_connector]
+	#Maximum distance in blocks that a thrown connector can travel before it fizzles and returns.
+	# Default: 20.0
+	# Range: 1.0 ~ 128.0
+	maxThrowDistance = 20.0
+	#Projectile launch velocity. Snowballs use 1.5.
+	# Default: 1.5
+	# Range: 0.1 ~ 5.0
+	throwVelocity = 1.5
+	#If true, the item is only consumed after the connector is placed successfully. If false, it is consumed when thrown and refunded on failure.
+	consumeOnSuccessOnly = true
+	#Cooldown applied after a successful throw.
+	# Default: 10
+	# Range: 0 ~ 200
+	cooldownTicks = 10
+	#Spawn particles at the placed connector on success.
+	playParticles = true
+	#Show action bar feedback when the item cannot be used.
+	showFailureMessages = true

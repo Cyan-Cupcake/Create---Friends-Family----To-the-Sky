@@ -1,0 +1,94 @@
+{
+  "boss_rules": {
+    "block_factorys_bosses:kraken": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "block_factorys_bosses:yeti": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "block_factorys_bosses:infernal_dragon": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "block_factorys_bosses:sandworm": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "minecraft:wither": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "minecraft:warden": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "block_factorys_bosses:underworld_knight": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    }
+  },
+  "global_settings": {
+    "default_enabled": true,
+    "auto_add_new_bosses": true,
+    "force_unlock_all": false,
+    "require_biome_match": false
+  }
+}

@@ -1,0 +1,50 @@
+#List of structures that will be synchronized between client and server
+synchronized_structures = ["template_foundation"]
+#true = generate a template structure if the server structures folder is empty, false = do not generate
+generate_template = true
+#List of properties that will be ignored when pasting a structure
+ignored_properties = ["age", "stage", "moisture", "growth", "germinating", "level", "layers", "honey_level", "eggs", "pickles", "bites", "berries", "charges", "flower_amount", "power", "triggered", "enabled", "lit", "signal_fire", "has_book", "has_record", "damage", "rotation", "note", "attachment", "hanging", "drag", "shrieking", "bloom", "candles", "conditional", "delay", "locked", "mode", "scroll", "shape", "short", "unstable"]
+#true = enable, false = disable
+enable_buildtool = true
+#Maximum number of queued structures per player
+# Default: 100
+# Range: 1 ~ 1000
+max_queued_structures = 100
+#true = enable CLEAR mode, false = disable
+enable_clear_mode = true
+#true = automatically clear obstructions when placing structure, false = prevent placement
+allow_obstruction_clearing = false
+#Order of categories that will be displayed in the GUI
+category_order = ["Logistics", "Production", "Power", "Organization", "Transportation"]
+#Block that will be replaced by the selected color in BuildTool
+template_block = "minecraft:yellow_concrete"
+#List of 16 blocks corresponding to the 16 colors (0-15). Order: White, Orange, Magenta, Light Blue, Yellow, Lime, Pink, Gray, Light Gray, Cyan, Purple, Blue, Brown, Green, Red, Black
+color_blocks = ["minecraft:white_concrete", "minecraft:orange_concrete", "minecraft:magenta_concrete", "minecraft:light_blue_concrete", "minecraft:yellow_concrete", "minecraft:lime_concrete", "minecraft:pink_concrete", "minecraft:gray_concrete", "minecraft:light_gray_concrete", "minecraft:cyan_concrete", "minecraft:purple_concrete", "minecraft:blue_concrete", "minecraft:brown_concrete", "minecraft:green_concrete", "minecraft:red_concrete", "minecraft:black_concrete"]
+#Base block that will be replaced by the selected material in Build Parts
+base_material = "minecraft:stone"
+#List of materials in 'name|block_id' format. Example: 'Stone|minecraft:stone'
+material_blocks = ["Stone|minecraft:stone", "Iron|minecraft:iron_block", "Gold|minecraft:gold_block", "Concrete|minecraft:gray_concrete"]
+#Maximum allowed size for structures (width, height, length)
+# Default: 100
+# Range: 10 ~ 1000
+max_structure_size = 100
+#Maximum allowed volume for structures (in blocks)
+# Default: 1000000
+# Range: 100 ~ 10000000
+max_structure_volume = 1000000
+#Maximum number of structures that can be placed in a single Zoop
+# Default: 20
+# Range: 1 ~ 100
+max_zoop_count = 20
+#Duration in milliseconds that structure preview will remain visible
+# Default: 60000
+# Range: 1000 ~ 600000
+preview_duration_ms = 60000
+#Number of blocks placed per tick during construction
+# Default: 10
+# Range: 1 ~ 100
+blocks_per_tick = 10
+#true = enable data compression, false = disable
+enable_compression = true
+#true = detailed logging, false = minimal logging
+verbose_logging = false

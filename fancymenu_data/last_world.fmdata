@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = /home/jordanf/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/Create Colonies - AERONAUTICS/minecraft/saves/New World (7)
+}
+

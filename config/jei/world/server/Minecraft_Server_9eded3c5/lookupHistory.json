@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_linear_motion_simulated:pneumatic_cylinder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stripped_spruce_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:creative_physics_staff"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:rope_coupling"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

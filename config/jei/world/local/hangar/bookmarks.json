@@ -1,0 +1,11 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create:schematic","components":{"create:schematic_bounds":[75,4,34],"create:schematic_file":"floor_2.nbt","create:schematic_mirror":"none","create:schematic_anchor":[-147,83,349],"create:schematic_owner":"CharlieDelta99","create:schematic_deployed":false,"create:schematic_rotation":"180"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwroofs:deepslate_roof"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwroofs:deepslate_top_roof"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwroofs:deepslate_lower_roof"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwroofs:deepslate_steep_roof"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwroofs:deepslate_upper_steep_roof"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_new_age:reactor_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spruce_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

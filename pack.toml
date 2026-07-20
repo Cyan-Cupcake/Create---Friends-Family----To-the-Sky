@@ -1,0 +1,13 @@
+name = "Create: Friends & Family - To the Sky"
+author = "CyanCupcake"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "14e0035118ca1a6158c84dec342a61a1dcff9bc03cfce0bdb69ce10a63a2280d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"

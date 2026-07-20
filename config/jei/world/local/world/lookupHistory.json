@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:dirt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:spring"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

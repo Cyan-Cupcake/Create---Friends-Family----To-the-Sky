@@ -1,0 +1,43 @@
+{
+  "name": "Template Foundation",
+  "author": "Satiscraftory",
+  "description": "A reference structure showing all available fields and how to use them.",
+  "category": "Foundations",
+  "guiPath": "Foundations \u003e Stone",
+  "iconPath": "satisfactory_build_tool:textures/gui/icons/factory_default.png",
+  "tier": 0,
+  "energyConsumption": 0,
+  "onlyItems": false,
+  "requiredItems": [
+    {
+      "itemId": "minecraft:stone",
+      "count": 4
+    },
+    {
+      "itemId": "minecraft:iron_ingot",
+      "count": 2
+    }
+  ],
+  "width": 3,
+  "length": 3,
+  "height": 1,
+  "pattern": [
+    [
+      [
+        "minecraft:stone",
+        "minecraft:stone",
+        "minecraft:stone"
+      ],
+      [
+        "minecraft:stone",
+        "minecraft:stone",
+        "minecraft:stone"
+      ],
+      [
+        "minecraft:stone",
+        "minecraft:stone",
+        "minecraft:stone"
+      ]
+    ]
+  ]
+}
