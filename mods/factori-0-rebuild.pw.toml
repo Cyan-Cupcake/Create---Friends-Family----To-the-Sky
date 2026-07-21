@@ -1,0 +1,13 @@
+name = "Factori-0 Rebuild"
+filename = "factory_rebuild-1.0.3_neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "138f841af1431ab6d1edabb1be9f504e3b1e7512"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7547819
+project-id = 1437448

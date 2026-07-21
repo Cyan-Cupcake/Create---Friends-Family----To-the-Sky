@@ -1,0 +1,13 @@
+name = "Craftable Bells "
+filename = "craftable-bells-datapack-1.0 (5).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95b2d9fcb3493db8a3c7555875f6fb008aeadfc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6687093
+project-id = 1292745

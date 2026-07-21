@@ -1,0 +1,13 @@
+name = "Beyond Outdoors"
+filename = "beyondoutdoors-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fa2b322a17a81494ea086924606615edb58efa1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8330923
+project-id = 1577837

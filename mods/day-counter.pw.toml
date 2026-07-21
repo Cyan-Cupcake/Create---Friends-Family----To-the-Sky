@@ -1,0 +1,13 @@
+name = "Day Counter"
+filename = "ags_day_counter-6.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "060f8620ce32090de59d73c227410fe8f8825415"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7917219
+project-id = 559334

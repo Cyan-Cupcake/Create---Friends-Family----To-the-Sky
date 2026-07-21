@@ -1,0 +1,13 @@
+name = "Daily Boss X Bosses Rise"
+filename = "DailyBoss-BossesRise-Kraken Name Addon.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "074c7202622f25000f6e3f73616dbb2e933830d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8363143
+project-id = 1544380

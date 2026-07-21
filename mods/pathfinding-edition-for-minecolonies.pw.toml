@@ -1,0 +1,13 @@
+name = "Pathfinding Edition For MineColonies"
+filename = "colonypathingedition-1.21.1-1.0.5-ALPHA-11.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a90ea4845c932def5d40412901ec0f3473dd319c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8375216
+project-id = 1278014

@@ -1,0 +1,13 @@
+name = "Daily Boss - More Boss Config"
+filename = "dbmbcneo-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "648d2e178f2e81c6665736487b86b54f9149f9b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7564090
+project-id = 1372474

@@ -1,0 +1,13 @@
+name = "Dungeon Difficulty x Jade"
+filename = "ddjade-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82f09e0d94d8b2e0e91a7278ce65fd33f88af34f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7780976
+project-id = 1490229

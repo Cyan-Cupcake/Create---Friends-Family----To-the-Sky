@@ -1,0 +1,13 @@
+name = "Dracolotl"
+filename = "dracolotl-1.0.3-neoforge-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1bda4abbc35f72dab6f369c274d72c9ed183e9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6991479
+project-id = 1111965

@@ -1,0 +1,13 @@
+name = " MineColonies: War 'n Nobility"
+filename = "warnnobility-neoforge-1.0.7-1.21.1-java21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b01073b85c1054b7081a95648bfb179bf1a36e16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8410945
+project-id = 1580789

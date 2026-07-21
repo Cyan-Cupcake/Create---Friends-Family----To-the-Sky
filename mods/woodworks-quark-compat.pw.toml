@@ -1,0 +1,13 @@
+name = "Woodworks Quark Compat"
+filename = "st_wqc-1.21.1-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b68b40d18bc9b02461718564bc8c32559cf8cfc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7733214
+project-id = 1143538

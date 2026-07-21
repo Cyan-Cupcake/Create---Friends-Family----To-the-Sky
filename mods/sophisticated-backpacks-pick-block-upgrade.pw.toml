@@ -1,0 +1,13 @@
+name = "Sophisticated Backpacks Pick Block Upgrade"
+filename = "sophisticated_backpacks_pick_block_upgrade-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9723a1964bc3b4f6319058a0180b7f68d1fe524"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7566940
+project-id = 1450314

@@ -1,0 +1,13 @@
+name = "Aquaculture 2: Lava Fishing Addon"
+filename = "Aquaculture2LavaFishingAddon-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb6ac390e06ee36a9cd7e0e4de21c39e62275021"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7760951
+project-id = 1486796
